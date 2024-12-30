@@ -2,11 +2,11 @@
 
 ## Descrierea setului de date:
 
-    Setul de date indian pines contine informatii despre mai multe tipuri de elemente prezente in respectivul teren.Contine 17 elemente in teren,200 de benzi spectrale,145x145 de pixeli.
+Setul de date indian pines contine informatii despre mai multe tipuri de elemente prezente in respectivul teren.Contine 17 elemente in teren,200 de benzi spectrale,145x145 de pixeli.
 
 ## Motivatia:
 
-    Scopul proiectului de a folosi metode supervizate in vederea clasificarii imaginii,observand la final capacitatea metodelor de a prezice diverse elemente din teren comparativ cu imaginea din teren reala,ground truth-ul.
+Scopul proiectului de a folosi metode supervizate in vederea clasificarii imaginii,observand la final capacitatea metodelor de a prezice diverse elemente din teren comparativ cu imaginea din teren reala,ground truth-ul.
 
 ## Implementarea:
 
@@ -38,7 +38,7 @@ Avand in vedere ca ma folosesc de `classification_report(...,...)` am definit la
 
 ### Plotarea si compararea rezultatelor:
 
-    Am adus imaginea prezisa la forma standard pentru a o compara cu ground truth-ul si am afisat langa ground truth-ul.
+Am adus imaginea prezisa la forma standard pentru a o compara cu ground truth-ul si am afisat langa ground truth-ul.
 
 ### Main-ul:
 
